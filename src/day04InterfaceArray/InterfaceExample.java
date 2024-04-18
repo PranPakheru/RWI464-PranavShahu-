@@ -1,4 +1,4 @@
-package day04Interface;
+package day04InterfaceArray;
 
 public class InterfaceExample implements RBI {
 

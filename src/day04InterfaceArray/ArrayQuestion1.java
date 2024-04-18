@@ -1,4 +1,4 @@
-package day04Interface;
+package day04InterfaceArray;
 
 import java.util.Arrays;
 
